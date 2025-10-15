@@ -9,7 +9,7 @@ public class Main {
         //gerando números aletorios
         Random gerador = new Random();
 
-        int numero_maquina = gerador.nextInt(51);
+        int numero_maquina = gerador.nextInt(50);
         int tentativa;
 
         //entrada de dados
